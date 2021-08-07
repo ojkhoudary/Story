@@ -1,0 +1,5 @@
+
+Atom Text Editor (recommended)
+List of Atom Plugins
+VS Code Text Editor (good alternative)
+VS Code Extensions
